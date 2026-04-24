@@ -49,8 +49,7 @@ function Message({ msg }) {
 const SUGGESTED = [
   'What are the biggest risks?',
   'Explain the termination clause',
-  'What should I ask before signing?',
-  'Summarize Party B\'s obligations'
+  'What should I ask before signing?'
 ];
 
 export default function ChatPanel({ onClose }) {
